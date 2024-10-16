@@ -46,3 +46,5 @@ To get started with Android Development, read the documentation on [docs.dhis2.o
 The Web API documentation can be found on [docs.dhis2.org](https://docs.dhis2.org/en/develop/using-the-api/dhis-core-version-240/introduction.html). 
 
 An Interactive demo of the Web API can be found on [dhis2.stoplight.io](https://dhis2.stoplight.io/docs/dhis2/).
+
+This documentation is an easy start up for beginners at low level welcome into dhis2 world, Hello dhis2
